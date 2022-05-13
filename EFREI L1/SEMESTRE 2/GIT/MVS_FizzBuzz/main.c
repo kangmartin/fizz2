@@ -16,7 +16,7 @@ int main (void) {
             printf ("%d\n", i);
         }
     }
-    printf("non");
+    printf("salut");
     return EXIT_SUCCESS;
 }
 
