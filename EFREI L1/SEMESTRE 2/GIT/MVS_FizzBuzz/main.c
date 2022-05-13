@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define FIZZ "Fizz"
+#define FIZZ "Fizz2"
 #define BUZZ "Buzz"
 
 int main (void) {
