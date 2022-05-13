@@ -16,6 +16,7 @@ int main (void) {
             printf ("%d\n", i);
         }
     }
+    printf("Oui");
 
     return EXIT_SUCCESS;
 }
